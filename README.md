@@ -18,9 +18,7 @@
 <h2>Abdeckungen</h2>
 <p>Bevor man beginnt sollte man unbedingt den beweglichen Bereich (Lenker) gegenüber dem statischen Bereich mit einem Tuch abdecken. Herunterfallende Schrauben fallen gerne wie durch einen Trichter von der Lampenmaske zum Kühler und sind nur mit erheblichem Aufwand wiederzubeschaffen.</p>
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always;"></div>
 
 <h2>Werkstatthandbuch Seite 3-3: Meter Top Cover</h2>
 <p>
