@@ -5,7 +5,7 @@
 
 <p>Was schnell klar wurde: Die Herausforderung beim Einbau der Griffheizung besteht darin, die Verkleidungsteile so zu demontieren, dass keine Nasen abbrechen. Diese Dokumentation konzentriert sich daher auf den mechanischen und nicht auf den elektrischen Teil.</p>
 
-<p>Die gleichen Informationen benötigst du auch beim Wechsel der Bremsflüssigkeit oder beim Einbau einer Original Honda Bremsscheibe.</p>
+<p>Die gleichen Informationen benötigst du auch beim Wechsel der Bremsflüssigkeit oder beim Einbau des Original Honda Windshields.</p>
 
 <p>Beginnen wir....</p>
 
