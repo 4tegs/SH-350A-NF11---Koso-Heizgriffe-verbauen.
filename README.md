@@ -31,9 +31,7 @@
 <img src="./images/002-Meter-Top-Cover.jpg" alt="Meter Top Cover Part 2" style="width:80%"/>
 </p>
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always;"></div>
 
 <h2>Werkstatthandbuch Seite 3-19: Handle Cover Garnish</h2>
 <p>Dieses Teil kostete mich ziemlich Nerven. Es gibt keine Schrauben, nur Klemmungen.</p>
@@ -60,9 +58,8 @@
 
 <img src="./images/005_Handle_Cover_Garnish.jpg" alt="Handle Cover Garnish" style="width:80%"/>
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always;"></div>
+
 <h2>Werkstatthandbuch Seite 3-4: Front Handlebar Cover</h2>
 
 <p>Jetzt baut man die komplette Lampenmaske ab.
@@ -71,9 +68,7 @@
 
 <img src="./images/008_Front_handlebar_Cover.jpg" alt="Front Handlebar Cover" style="width:80%"/>
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always;"></div>
 
 <img src="./images/006_Front_handlebar_Cover.jpg" alt="Front Handlebar Cover" style="width:80%"/>
 
@@ -85,9 +80,8 @@
 
 <!-- ![Lichtstecker](./images/007_Lichtstecker.jpg) -->
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always;"></div>
+
 <h2>Werkstatthandbuch Seite 3-5: Rear Handlebar Cover</h2>
 <p>Nun ist es noch angebracht die Instrumententafel zu lösen (nicht abbauen!). Das geschieht mittels zweier Schrauben von vorne und der zentralen Schraube an der Lenksäule, im obigen Bild beschriftet mit <strong>gelbem (A)</strong>.
 </p>
