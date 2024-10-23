@@ -18,39 +18,78 @@
 <h2>Abdeckungen</h2>
 <p>Bevor man beginnt sollte man unbedingt den beweglichen Bereich (Lenker) gegenüber dem statischen Bereich mit einem Tuch abdecken. Herunterfallende Schrauben fallen gerne wie durch einen Trichter von der Lampenmaske zum Kühler und sind nur mit erheblichem Aufwand wiederzubeschaffen.</p>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 <h2>Werkstatthandbuch Seite 3-3: Meter Top Cover</h2>
+<p>
+<!-- ![Meter Top Cover Part 1](./images/20240707-Frontabdeckung_oeffnen.jpg) -->
+<img src="./images/20240707-Frontabdeckung_oeffnen.jpg" alt="Meter Top Cover Part 1" style="width:80%"/>
+</p>
 
-![Meter Top Cover Part 1](./images/20240707-Frontabdeckung_oeffnen.jpg)
+<p>
+<!-- ![Meter Top Cover Part 2](./images/002-Meter-Top-Cover.jpg) -->
+<img src="./images/002-Meter-Top-Cover.jpg" alt="Meter Top Cover Part 2" style="width:80%"/>
+</p>
 
-![Meter Top Cover Part 2](./images/002-Meter-Top-Cover.jpg)
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 <h2>Werkstatthandbuch Seite 3-19: Handle Cover Garnish</h2>
 <p>Dieses Teil kostete mich ziemlich Nerven. Es gibt keine Schrauben, nur Klemmungen.</p>
 
-![Handle Cover Garnish](./images/IMG_9687.jpg)
+<!-- ![Handle Cover Garnish](./images/IMG_9687.jpg) -->
+<p>
+<img src="./images/IMG_9687.jpg" alt="Handle Cover Garnish" style="width:80%"/>
+</p>
 
-![Handle Cover Garnish](./images/003_Handle_Cover_Garnish.jpg)
+<p>
+<!-- ![Handle Cover Garnish](./images/003_Handle_Cover_Garnish.jpg) -->
+<img src="./images/003_Handle_Cover_Garnish.jpg" alt="Handle Cover Garnish" style="width:80%"/>
+</p>
 
-<p>Klammern (A): Nun zieht man oben beginnend direkt zum Fahrer hin.</p>
+<p>Klammern (A): Nun zieht man oben beginnend direkt zum Fahrer hin.
 
-![Handle Cover Garnish](./images/004_Handle_Cover_Garnish.jpg)
+<!-- ![Handle Cover Garnish](./images/004_Handle_Cover_Garnish.jpg) -->
+<img src="./images/004_Handle_Cover_Garnish.jpg" alt="Handle Cover Garnish" style="width:80%"/>
+</p>
 
 <p>Während man die die Klammern (B) in einem leichten Aufwärtswinkel herauszieht.
 
-![Handle Cover Garnish](./images/005_Handle_Cover_Garnish.jpg)
+<!-- ![Handle Cover Garnish](./images/005_Handle_Cover_Garnish.jpg) -->
 
+<img src="./images/005_Handle_Cover_Garnish.jpg" alt="Handle Cover Garnish" style="width:80%"/>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 <h2>Werkstatthandbuch Seite 3-4: Front Handlebar Cover</h2>
 
 <p>Jetzt baut man die komplette Lampenmaske ab.
 
-![Handle Cover Garnish](./images/008_Front_handlebar_Cover.jpg)
+<!-- ![Handle Cover Garnish](./images/008_Front_handlebar_Cover.jpg) -->
 
-![Handle Cover Garnish](./images/006_Front_handlebar_Cover.jpg)
+<img src="./images/008_Front_handlebar_Cover.jpg" alt="Front Handlebar Cover" style="width:80%"/>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+<img src="./images/006_Front_handlebar_Cover.jpg" alt="Front Handlebar Cover" style="width:80%"/>
+
+<!-- ![Handle Cover Garnish](./images/006_Front_handlebar_Cover.jpg) -->
 
 <p>Nun kann man die Lampenmaske abziehen sowie die Steckverbindung zum Licht trennen:</p>
 
-![Lichtstecker](./images/007_Lichtstecker.jpg)
+<img src="./images/007_Lichtstecker.jpg" alt="Lichtstecker" style="width:80%"/>
 
+<!-- ![Lichtstecker](./images/007_Lichtstecker.jpg) -->
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 <h2>Werkstatthandbuch Seite 3-5: Rear Handlebar Cover</h2>
 <p>Nun ist es noch angebracht die Instrumententafel zu lösen (nicht abbauen!). Das geschieht mittels zweier Schrauben von vorne und der zentralen Schraube an der Lenksäule, im obigen Bild beschriftet mit <strong>gelbem (A)</strong>.
 </p>
